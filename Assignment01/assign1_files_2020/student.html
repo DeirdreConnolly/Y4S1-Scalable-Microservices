@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<form method="post" action="http://localhost:3000/addStudent">
+    <!-- Action = The resource/URL where data is to be sent for processing when the form is submitted -->
+    First Name:<br>
+    <input type="text" name="firstname"><br>
+    Last Name:<br>
+    <input type="text" name="lastname"><br>
+    Address:<br>
+    <input type="text" name="address"><br>
+    Phone:<br>
+    <input type="text" name="phone"><br>
+    Mark:<br>
+    <input type="number" name="mark"><br>
+    Nationality:<br>
+    <select name="nationality">
+        <option value="Irish" selected>Irish</option>
+        <option value="French">French</option>
+        <option value="English">English</option>
+    </select><br><br>
+    <input type="submit" value="Submit">
+</form>
+
+<p>If you click the "Submit" button, the form-data will be sent to a page called "action_page.php".</p>
+
+</body>
+</html>
