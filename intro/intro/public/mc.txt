@@ -1,7 +1,0 @@
-#MC What is the capital of Ireland?; Dublin*;London; Paris
-#MC Which planet is closest to the sun?; Earth; Mercury*; Pluto
-#TF El Paso is the capital of Texas.; True*; False
-#FIB It is no use going back to [yesterday], because I was a different [person] then. (Lewis Carroll),
-#FIB The [reasonable] man adapts himself to the world: the [unreasonable] one persists in trying to adapt the world to himself. Therefore all [progress/development] depends on the [man]. George Bernard Shaw, Man and Superman
-#FIB Hardship often prepares an ordinary person for an extraordinary [destiny]. C.S. Lewis
-#FIB We are what we [repeatedly] do. Greatness then, is not an act, but a [habit]. Aristotle
